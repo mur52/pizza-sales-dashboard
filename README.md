@@ -47,9 +47,9 @@ Microsoft Excel
   * The Barbecue Chicken Pizza
   * The Hawaiian Pizza
 
-## 🧾 SQL Queries
-SQL queries are available here:
-➡️ [SQL Queries PDF](sql/SQL_Queries.pdf)
+🧾 SQL Queries
+All SQL queries used in analysis are available here:
+sql/SQL_Queries.pdf
 
 
 📌 How to Use
